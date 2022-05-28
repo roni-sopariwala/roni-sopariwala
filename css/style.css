@@ -14,13 +14,9 @@ body{
 }
 .text-black{
     color:white;
-    background: black;
-    box-shadow: 5px 5px #888888;
 }
 .text-black a:hover{
     color:white;
-    background: black;
-    box-shadow: 5px 5px #888888;
 }
 a:hover{
     text-decoration:none
