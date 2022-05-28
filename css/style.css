@@ -42,6 +42,11 @@ a:hover{
     opacity: 0.95;
     border-radius: 8px 8px 0 0;
 }
+.inverted-curve {
+    background: #273036;
+    height: 50px;
+}
+
 .bg{
     background-image:url(../img/background.jpg);
     height:100%;
