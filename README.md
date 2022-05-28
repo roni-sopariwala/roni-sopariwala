@@ -1,4 +1,17 @@
-### Hi there, this one is for business profile 👋
+## Adv. Roni Sopariwala 👨🏻‍🎓
+
+Your Solution Start Here..
+
+### Our services
+
+- Banking Related Case
+- Revenue Cases
+- Documentation
+- Legal Notice / Paper Work
+- Matrimonial Matters
+
+
+
 
 <!--
 **roni-sopariwala/roni-sopariwala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
