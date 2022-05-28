@@ -36,6 +36,12 @@ a:hover{
     display:flex;
     user-select:none
 }
+.curved-div {
+    background: #939393;
+    height: 50px;
+    opacity: 0.95;
+    border-radius: 8px 8px 0 0;
+}
 .bg{
     background-image:url(../img/background.jpg);
     height:100%;
